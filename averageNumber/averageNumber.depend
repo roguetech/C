@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549197952 source:/home/patrick/coding/C/averageNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+
